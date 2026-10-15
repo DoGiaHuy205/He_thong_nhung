@@ -1,0 +1,1 @@
+bai2_ngat_uart\startup_stm32f103xb.o: startup_stm32f103xb.s
